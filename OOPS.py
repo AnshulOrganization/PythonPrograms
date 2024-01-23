@@ -14,7 +14,7 @@ Object:
     - Objects upon initialization are loaded in memory
 
     syntax:
-        objectname = classname()
+        objectname = class_name()
         objectname.data_member
         objectname.member_function
 
