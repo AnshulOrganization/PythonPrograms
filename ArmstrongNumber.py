@@ -23,4 +23,3 @@ if num == ans:
     print("Armstrong number")
 else:
     print("Not an Armstrong Number")
-
