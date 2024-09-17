@@ -1,5 +1,6 @@
 """
 This is a program to find all divisors of a number entered by the User.
+This is a program to find all divisors of a number entered by the User.
 """
 
 n = int(input("Enter number: "))
